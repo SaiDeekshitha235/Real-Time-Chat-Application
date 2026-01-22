@@ -6,7 +6,6 @@ chat-backend/.project
 chat-backend/.settings/
 chat-frontend/node_modules/
 chat-frontend/dist/
-chat=frontend/.env.local
 chat-frontend/.env.local
 chat-frontend/.env.*.local
 .vscode/
