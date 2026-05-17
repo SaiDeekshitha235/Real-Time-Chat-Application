@@ -1,19 +1,36 @@
-chat-backend/target
-chat-backend/.idea
-chat-backend/*.iml
-chat-backend/.classpath
-chat-backend/.project
-chat-backend/.settings/
-chat-frontend/node_modules/
-chat-frontend/dist/
-chat-frontend/.env.local
-chat-frontend/.env.*.local
-.vscode/
+# Java / Spring Boot / Maven
+target/
+*.class
+*.jar
+*.war
+.mvn/
+.classpath
+.project
+.settings/
+
+# IDE files
 .idea/
+*.iml
+.vscode/
+
+# Node / React
+node_modules/
+dist/
+build/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor swap/temp files
 *.swp
 *.swo
 *~
-.DS_Store
-Thumbs.db
-.env
-.env.local
+
+# Logs
+*.log
