@@ -76,8 +76,22 @@ Frontend runs at `http://localhost:5173`
 
 ## 📸 Screenshots
 
-*(Add screenshots of your login page, chat page, etc. here later)*
+## 📸 Screenshots
 
+### Sign Up Page
+![Signup Page](Screenshots/signup-Page.png)
+
+### Sign In Page
+![Signin Page](Screenshots/signin-page.png)
+
+### Conversations
+![Conversations](Screenshots/conversations.png)
+
+### New Chat Dialogue
+![New Chat Dialogue](Screenshots/New-chats-dialogue-box.png)
+
+### Chat Page
+![Chat Page](Screenshots/chat-page.png)
 ## 👩‍💻 Author
 
 **Sai Deekshitha K R**
